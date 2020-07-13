@@ -59,6 +59,11 @@ li {
   text-align: center;
 }
 
+.logo {
+  width: 100%;
+  max-width: 522px;
+}
+
 .coloured-background-container {
   background-color: #bbe84d;
   padding: 10px;
