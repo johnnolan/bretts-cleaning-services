@@ -46,9 +46,17 @@ li {
   text-align: center;
 }
 
+.services-list > li:nth-child(odd) {
+  color: #bbe84d;
+}
+
 .italic {
   font-style: italic;
   font-size: 1.2rem;
+}
+
+.head {
+  text-align: center;
 }
 
 .coloured-background-container {
